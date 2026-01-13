@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 
 
 # ============= CONFIG =============
-BOT_TOKEN = os.getenv("BOT_TOKEN", "COLOQUE_SEU_TOKEN_AQUI")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8336709549:AAF1WlEKvKoZdP7qT3TgeywdYtLehss7j-w")
 
 # Se estiver no Windows, descomente e ajuste:
 # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
