@@ -1,0 +1,5 @@
+python-telegram-bot==21.6
+pillow
+opencv-python-headless
+pytesseract
+numpy
